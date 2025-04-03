@@ -18,6 +18,7 @@ There are bonus points if you add form validation and pagination.
 ### 1. Install dependencies
 
 composer install
+
 npm install
 
 ### 2. Set up database
